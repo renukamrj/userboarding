@@ -1,0 +1,19 @@
+maven it compiles java files.
+javaspace-jar jarfile path
+gitrepository
+clear
+git status
+add commit push
+git add
+git add* if they want to add all files
+git commit - m 'List Categories API'
+git push
+ssh key is unique identifier and generate new SSHkey the connection is established between local computer and github which is in server.forbidden it is there but not allowing to connect.
+git branch to see which branch
+git pull origin main
+1. git clone 
+git add
+git status
+git commit
+git push
+git
